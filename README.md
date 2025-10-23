@@ -1,16 +1,42 @@
-# React + Vite
+# 📝 To-Do List Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and intuitive To-Do List application that helps users manage their daily tasks. Users can add, edit, delete, and mark tasks as complete. Built with a full-stack architecture using **React**, **Node.js**, **Express**, and **MongoDB**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- ✅ Add new tasks  
+- ✏️ Edit existing tasks  
+- 🗑️ Delete tasks  
+- ✔️ Mark tasks as complete/incomplete  
+- 🗂️ Filter tasks by completed/uncompleted  
+- 🌐 Responsive UI for desktop and mobile  
+- 🛠️ RESTful API for task management  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+
+---
+
+## 💡 Key Objectives
+
+- **Task Management:** Let users create and manage a list of tasks.  
+- **Simplicity:** Prioritize ease of use and clean design.  
+- **Persistence:** Ensure tasks remain available across sessions using a database.  
+- **Responsiveness:** Provide a seamless experience on both desktop and mobile devices.  
+
+---
+
+## 🧑‍💻 Use Cases
+
+- Daily personal task tracking  
+- Class assignments and study planning  
+- Project management in small teams  
+- Shopping lists or reminders  
+
