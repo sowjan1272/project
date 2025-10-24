@@ -38,5 +38,8 @@ A simple and intuitive To-Do List application that helps users manage their dail
 - Daily personal task tracking  
 - Class assignments and study planning  
 - Project management in small teams  
-- Shopping lists or reminders  
+- Shopping lists or reminders
 
+## deployment link 
+
+-https://vinosowjanyatodolist.netlify.app/
